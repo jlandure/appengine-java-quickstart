@@ -26,7 +26,7 @@ For more information, go to the [GitHub repo](https://github.com/zenika/alpine-a
 Open your browser to `http://localhost:8080/hello` and see something like 
 
 ```
-Hello App Engine - Standard using 1.9.58 Java 1.8
+Hello App Engine - Standard using 1.9.XX Java 1.8
 ```
 
 ## Project from CloudSDK official documentation
